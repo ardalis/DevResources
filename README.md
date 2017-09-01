@@ -4,6 +4,7 @@ A list of links to resources.
 ## Courses
 
 - [ASP.NET Core Quick Start](http://bit.ly/AspNetCoreQS)
+- [Try Pluralsight FREE](http://bit.ly/PS-TryFree)
 - [SOLID Principles of Object Oriented Design](http://bit.ly/SOLID-OOP)
 - [Domain-Driven Design Fundamentals](http://bit.ly/PS-ddd)
 - [Code Smells and Refactoring](http://bit.ly/PS-Refactoring)
