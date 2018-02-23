@@ -1,6 +1,10 @@
 # Dev Resources
 A list of links to resources.
 
+## GitHub Tools
+
+- [OctoTree](https://ardalis.com/github-octotree-chrome-extension)
+
 ## Courses
 
 - [ASP.NET Core Quick Start](http://bit.ly/AspNetCoreQS)
@@ -21,3 +25,8 @@ A list of links to resources.
 ## Checklists
 
 - [GitHub Pull Request Checklist](http://bit.ly/GitHubPRChecklist)
+
+## Podcasts
+
+- [Weekly Dev Tips](http://www.weeklydevtips.com/)
+- [CodingBlocks](http://www.codingblocks.net/)
