@@ -30,3 +30,7 @@ A list of links to resources.
 
 - [Weekly Dev Tips](http://www.weeklydevtips.com/)
 - [CodingBlocks](http://www.codingblocks.net/)
+
+## Newsletters (actually worth subscribing to)
+
+- [Weekly Dev Tips](https://ardalis.com/tips)
