@@ -1,6 +1,10 @@
 # Dev Resources
 A list of links to resources.
 
+## Tools
+
+- [Tools I'm Using Now](https://ardalis.com/tools-used)
+
 ## GitHub Tools
 
 - [OctoTree](https://ardalis.com/github-octotree-chrome-extension)
@@ -8,15 +12,14 @@ A list of links to resources.
 ## Courses
 
 - [ASP.NET Core Quick Start](http://bit.ly/AspNetCoreQS)
-- [Try Pluralsight FREE](http://bit.ly/PS-TryFree)
-- [SOLID Principles of Object Oriented Design](http://bit.ly/SOLID-OOP)
-- [Domain-Driven Design Fundamentals](http://bit.ly/PS-ddd)
-- [Code Smells and Refactoring](http://bit.ly/PS-Refactoring)
-- [Design Patterns](http://bit.ly/PS-design-patterns)
-- [Architecting N-Tier Applications in .NET, pt 1](http://bit.ly/PS-NTier1)
-- [Architecting N-Tier Applications in .NET, pt 2](http://bit.ly/PS-NTier2)
-- [Kanban Fundamentals](http://bit.ly/PS-Kanban)
-- [Pair Programming Fundamentals](http://bit.ly/PS-PairProgramming)
+- [SOLID Principles of Object Oriented Design](https://www.pluralsight.com/courses/principles-oo-design)
+- [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals)
+- [Code Smells and Refactoring](https://www.pluralsight.com/courses/refactoring-fundamentals)
+- [Design Patterns](https://www.pluralsight.com/courses/patterns-library)
+- [Architecting N-Tier Applications in .NET, pt 1](https://www.pluralsight.com/courses/n-tier-apps-part1)
+- [Architecting N-Tier Applications in .NET, pt 2](https://www.pluralsight.com/courses/n-tier-csharp-part2)
+- [Kanban Fundamentals](https://www.pluralsight.com/courses/kanban-fundamentals)
+- [Pair Programming](https://www.pluralsight.com/courses/pair-programming)
 
 ## eBooks
 
@@ -25,6 +28,8 @@ A list of links to resources.
 ## Checklists
 
 - [GitHub Pull Request Checklist](http://bit.ly/GitHubPRChecklist)
+- [Podcast Publication Checklist](https://ardalis.com/weeklydevtips-podcast-checklist)
+- [Nuget Package Publication Checklist](https://ardalis.com/nuget-publication-checklist)
 
 ## Podcasts
 
@@ -34,3 +39,14 @@ A list of links to resources.
 ## Newsletters (actually worth subscribing to)
 
 - [Weekly Dev Tips](https://ardalis.com/tips)
+- [Jonathan Stark's Daily List](https://jonathanstark.com/daily)
+
+## Streaming
+
+- [Ardalis](https://www.twitch.tv/ardalis)
+- [Jeff Fritz](https://www.twitch.tv/csharpfritz)
+- [DevChatter](https://www.twitch.tv/devchatter)
+
+
+
+- []
